@@ -1,3 +1,3 @@
 # website-flow
 # Modifications
-Modifications mage on cheese branch
+Modifications made on cheese branch. I don't like cheese.
